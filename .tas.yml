@@ -1,6 +1,5 @@
 ---
 framework: jest
-
 preRun:
      command:
         - npm i
